@@ -305,8 +305,8 @@ main {
 }
 
 .fade-in {
-    opacity: 0;
-    visibility: hidden;
+    opacity: 15;
+    visibility: visible;
     transform: translateX(-4em); /* Décalage initial de -20px vers la gauche */
     transition: opacity 3s ease, visibility 3s ease, transform 3s ease;
 }
