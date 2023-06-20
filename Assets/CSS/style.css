@@ -71,7 +71,7 @@ h2 {
 }
 
 .margin-200 {
-    margin-top: 12.5em;
+    margin-top: 15em;
 }
 
 
@@ -304,7 +304,7 @@ main {
     }
 }
 
-.fade-in {
+.Réseaux {
     opacity: 15;
     visibility: visible;
     transform: translateX(-4em); /* Décalage initial de -20px vers la gauche */
